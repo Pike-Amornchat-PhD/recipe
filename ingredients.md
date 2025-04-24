@@ -6,3 +6,5 @@
 * >1 tsp sugar
 
 * Don't add MSG
+* Add thai chili
+* Add jalapeno

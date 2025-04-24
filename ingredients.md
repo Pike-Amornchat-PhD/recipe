@@ -7,3 +7,4 @@
 
 * Don't add MSG
 * Add thai chili
+* Add jalapeno
